@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## `2-25.1.1`
+
+Release date `2023-07-28`
+
+- Catch up with Iosevka v25.1.1
+
 ## `2-25.0.0`
 
 Release date `2023-07-12`
