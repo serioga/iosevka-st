@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## `3-27.0.2`
+
+Release date `2023-09-24`
+
+- `i` with shorter top serif and full bottom serif
+- `l` with top serif and curly-then-flat tail
+- Catch up with Iosevka v27.0.2
+
 ## `2-25.1.1`
 
 Release date `2023-07-28`

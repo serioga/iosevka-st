@@ -11,9 +11,9 @@ Based of default configuration with changes:
 - `I` with short serifs
 - `W` with curly body; without serifs
 - `f` with flat top hook, descending extension, and crossbar at X-height
-- Serifed `i` (default for Upright), to override default italic
+- `i` with shorter top serif and full bottom serif
 - `k` with standard shape; without serifs, to override default italic
-- Serifed `l` (default for Upright), to override default italic
+- `l` with top serif and curly-then-flat tail
 - `t` with body with flat hook, and a shorter neck
 - `w` with curly body; without serifs
 - `y` with straight shape, and a tail turns leftward; without serifs
