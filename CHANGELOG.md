@@ -4,7 +4,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## Unreleased
+## `4-28.1.0`
+
+Release date `2024-02-19`
 
 - Update configuration to v28.1.0
 - Use default non-straight shape of the brace
