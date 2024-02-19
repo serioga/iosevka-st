@@ -27,7 +27,7 @@ Based of default configuration with changes:
 - Zero (`0`) with oval shape; without slash
 - `2` with straight neck
 - `4` with closed contour
-- `5` with an oblique upper-left bar
+- `5` with an oblique-arched left bar
 - `8` looks like two circles joined together
 - `9` with a more open contour
 - Asterisk (`*`) with five-pointed shape, and medium position
