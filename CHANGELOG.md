@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## Unreleased
 
 - Update configuration to v28.1.0
+- Use default non-straight shape of the brace
 
 ## `3-27.0.2`
 
