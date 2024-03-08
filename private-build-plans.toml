@@ -33,7 +33,7 @@ nine = "open-contour"
 asterisk = "penta-mid"
 caret = "high"
 number-sign = "slanted"
-at = "fourfold"
+at = "fourfold-solid-inner"
 dollar = "interrupted"
 percent = "rings-continuous-slash"
 

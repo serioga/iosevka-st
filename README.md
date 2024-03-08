@@ -35,7 +35,7 @@ Based of default configuration with changes:
 - Parenthesis with larger contour, like that in Monaco
 - More straight braces
 - Number sign with slanted bars
-- At symbol (`@`) with four-fold body
+- At symbol (`@`) with four-fold body, and solid inner
 - Dollar symbol with interrupted strike-through vertical bar
 - Percent % with rings and continuous bar
 
