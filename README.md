@@ -25,17 +25,18 @@ Based of default configuration with changes:
 - Cyrillic Lower Ka (`к`) with straight shape; without serifs
 - Cyrillic Lower Ef (`ф`) with standard shape and without serifs, to override default italic
 - Zero (`0`) with oval shape; without slash
-- `2` with straight neck
-- `4` with closed contour
-- `5` with an oblique-arched left bar
+- `2` with straight neck; without serifs
+- `4` with closed contour; without serifs
+- `5` with arched middle part; without serifs
 - `8` looks like two circles joined together
 - `9` with a more open contour
 - Asterisk (`*`) with five-pointed shape, and medium position
 - Higher circumflex `^`
 - Parenthesis with larger contour, like that in Monaco
 - More straight braces
+- Straight Guillemets (`« »`)
 - Number sign with slanted bars
-- At symbol (`@`) with four-fold body
+- At symbol (`@`) with four-fold body, and solid inner
 - Dollar symbol with interrupted strike-through vertical bar
 - Percent % with rings and continuous bar
 
