@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## `5-29.0.4`
+
+Release date `2024-03-26`
+
+- (feat): at symbol (`@`) with four-fold body, and solid inner
+- (feat): straight guillemets (`« »`)
+- (chore): update configuration for breaking changes in 29.0.0
+
 ## `4-28.1.0`
 
 Release date `2024-02-19`
